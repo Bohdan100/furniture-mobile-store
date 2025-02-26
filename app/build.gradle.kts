@@ -52,3 +52,29 @@ dependencies {
     implementation (libs.converter.gson)
     implementation (libs.logging.interceptor)
 }
+
+tasks.register("copyApkToRootDir") {
+    doLast {
+        val apkFile = file("build/outputs/apk/debug/app-debug.apk")
+        val destinationDir = rootDir
+        val newApkName = "furniture-store.apk"
+
+        if (apkFile.exists()) {
+            copy {
+                from(apkFile)
+                into(destinationDir)
+                rename { newApkName }
+            }
+            delete(apkFile)
+            println("APK copied to root folder and renamed to $newApkName")
+        } else {
+            println("APK file not found: $apkFile")
+        }
+    }
+}
+
+afterEvaluate {
+    tasks.named("assembleDebug") {
+        finalizedBy("copyApkToRootDir")
+    }
+}
