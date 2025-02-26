@@ -38,7 +38,7 @@ Follow these steps to set up and run the **Furniture Mobile Store** application 
 ### Steps to Run the Application
 1. **Clone the repository:**
     ```bash
-    git clone [https://github.com/Bohdan100/furniture-mobile-store](https://www.google.com/search?q=https://github.com/Bohdan100/furniture-mobile-store)
+    git clone https://github.com/Bohdan100/furniture-mobile-store
     ```
 
 2. **Open the project in Android Studio:**
