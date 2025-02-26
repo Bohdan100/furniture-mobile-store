@@ -1,4 +1,4 @@
-# Furniture Mobile Store Application
+# Furniture Store Application (mobile)
 The **Furniture Store** is an Android application developed in Kotlin, utilizing an SQLite database, and designed to provide users with a seamless interface for purchasing furniture items. The application features user authentication, a product catalog, a personalized shopping cart, and integrated payment processing via Stripe. All user and product data are securely stored in an SQLite database.
 
 ## Features
