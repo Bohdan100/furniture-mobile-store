@@ -50,7 +50,7 @@ Follow these steps to set up and run the **Furniture Mobile Store** application 
    * You can build the project directly in Android Studio by clicking **Build > Make Project**.
    * Alternatively, use the terminal to build the project with Gradle:
        ```bash
-       ./gradlew assembleDebug         # For Linux
+       ./gradlew assembleDebug     # For Linux
        .\gradlew assembleDebug     # For Windows
        ```
 
@@ -59,7 +59,7 @@ Follow these steps to set up and run the **Furniture Mobile Store** application 
    * In Android Studio, click **Run > Run 'app'**.
    * Alternatively, use the terminal to install and run the APK on a connected device:
        ```bash
-       ./gradlew installDebug       # For Linux
+       ./gradlew installDebug   # For Linux
        .\gradlew installDebug   # For Windows
        ```
 
