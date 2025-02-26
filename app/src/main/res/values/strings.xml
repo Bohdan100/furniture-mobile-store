@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Furniture App</string>
+    <string name="register_page">Register page</string>
+    <string name="enter_your_login_name">Enter your login name</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="register_btn">Register</string>
+    <string name="go_to_login_page">Go to Login</string>
+
+    <string name="login_page">Login page</string>
+    <string name="login_btn">Login</string>
+    <string name="go_to_register_page">Go to Register</string>
+    <string name="list_of_products">List of products</string>
+
+    <string name="look">Look</string>
+    <string name="cart">Cart</string>
+    <string name="logout">Logout</string>
+
+    <string name="buy">Buy</string>
+    <string name="product_photo">product photo</string>
+    <string name="shopping_cart">Shopping cart</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="back_to_list">Back to list</string>
+    <string name="card_details">Card Details</string>
+</resources>

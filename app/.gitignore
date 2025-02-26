@@ -1,0 +1,17 @@
+/build
+.gradle/
+.idea/
+
+*.iml
+*.ipr
+*.iws
+.DS_Store
+*.swp
+*.swo
+
+local.properties
+
+.externalNativeBuild/
+.cxx/
+.cache/
+tmp/

@@ -1,0 +1,107 @@
+[
+  {
+    "image": "sofa",
+    "title": "Corner Sofa",
+    "desc": "A comfortable and stylish corner sofa for your living room",
+    "text": "This sofa is perfect for relaxing after a long day. It has a soft cover and comfortable cushions.",
+    "price": 1000
+  },
+  {
+    "image": "table",
+    "title": "Extendable Table",
+    "desc": "A durable and elegant table for your kitchen",
+    "text": "This table is perfect for gathering with family and friends for meals. It is made of high-quality materials and will last for many years.",
+    "price": 500
+  },
+  {
+    "image": "chair",
+    "title": "ErgoChair Plus",
+    "desc": "A comfortable and ergonomic chair for your work",
+    "text": "This chair will pr with comfort and support while you work at your computer. It has adjustable height and back tilt.",
+    "price": 300
+  },
+  {
+    "image": "bed",
+    "title": "Lorraine Upholstered Platform Bed",
+    "desc": "A soft and comfortable bed for your peaceful sleep",
+    "text": "This bed will pr with a comfortable and healthy sleep. It has an orthopedic base and a soft mattress.",
+    "price": 800
+  },
+  {
+    "image": "wardrobe",
+    "title": "PAX Combination Wardrobe",
+    "desc": "A spacious and functional wardrobe for your clothes",
+    "text": "This wardrobe will help you organize your clothes and shoes. It has oors and many shelves and drawers.",
+    "price": 600
+  },
+  {
+    "image": "bookshelf",
+    "title": "Classic Bookshelf",
+    "desc": "A stylish and practical bookshelf for your home",
+    "text": "This bookshelf is perfect for storing your books and decorative items. It has multiple shelves and a sturdy design.",
+    "price": 250
+  },
+  {
+    "image": "dining_table",
+    "title": "Modern Dining Table",
+    "desc": "A sleek and modern dining table for your home",
+    "text": "This dining table is perfect for family dinners and gatherings. It has a minimalist design and is made of high-quality wood.",
+    "price": 700
+  },
+  {
+    "image": "armchair",
+    "title": "Cozy Armchair",
+    "desc": "A comfortable armchair for your living room",
+    "text": "This armchair is perfect for reading or relaxing. It has a soft cushion and a stylish design.",
+    "price": 400
+  },
+  {
+    "image": "desk",
+    "title": "Executive Desk",
+    "desc": "A spacious and elegant desk for your office",
+    "text": "This desk is perfect for working from home. It has a large surface area and multiple drawers for storage.",
+    "price": 900
+  },
+  {
+    "image": "tv_stand",
+    "title": "Modern TV Stand",
+    "desc": "A sleek and functional TV stand for your living room",
+    "text": "This TV stand is perfect for organizing your entertainment system. It has multiple shelves and a modern design.",
+    "price": 350
+  },
+  {
+    "image": "coffee_table",
+    "title": "Glass Coffee Table",
+    "desc": "A stylish coffee table for your living room",
+    "text": "This coffee table is perfect for placing drinks, books, or decorative items. It has a glass top and a metal frame.",
+    "price": 200
+  },
+  {
+    "image": "dresser",
+    "title": "Vintage Dresser",
+    "desc": "A classic dresser for your bedroom",
+    "text": "This dresser is perfect for storing clothes and accessories. It has multiple drawers and a vintage design.",
+    "price": 450
+  },
+  {
+    "image": "ottoman",
+    "title": "Storage Ottoman",
+    "desc": "A versatile ottoman for your living room",
+    "text": "This ottoman is perfect for extra seating or storage. It has a soft cushion and aompartment.",
+    "price": 150
+  },
+  {
+    "image": "nightstand",
+    "title": "Behtstand",
+    "desc": "A practical nightstand for your bedroom",
+    "text": "This nightstand is perfect for keeping your essentials close at hand. It has a drawer and a shelf for storage.",
+    "price": 120
+  },
+  {
+    "image": "bench",
+    "title": "Entryway Bench",
+    "desc": "A functional bench for your entryway",
+    "text": "This bench is perfect for putting on shoes or storing items. It has a sturdy design and a cushioned seat.",
+    "price": 180
+  }
+]
