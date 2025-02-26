@@ -51,7 +51,7 @@ Follow these steps to set up and run the **Furniture Mobile Store** application 
    * Alternatively, use the terminal to build the project with Gradle:
        ```bash
        ./gradlew assembleDebug         # For Linux
-       .\gradlew.bat assembleDebug     # For Windows
+       .\gradlew assembleDebug     # For Windows
        ```
 
 4. **Run the application on an emulator or physical device:**
@@ -60,7 +60,7 @@ Follow these steps to set up and run the **Furniture Mobile Store** application 
    * Alternatively, use the terminal to install and run the APK on a connected device:
        ```bash
        ./gradlew installDebug       # For Linux
-       .\gradlew.bat installDebug   # For Windows
+       .\gradlew installDebug   # For Windows
        ```
 
 5. **Use the application:**
